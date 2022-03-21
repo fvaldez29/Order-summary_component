@@ -126,7 +126,7 @@ body{
     height: 50px;
     border: none;
     border-radius: 8px;
-    font-size: 15px;
+    font-size: 16px;
     background-color: var(--bright-blue);
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -141,7 +141,7 @@ button:active{
     text-decoration: none;
     font-weight: bold;
     color: var(--Desaturated-blue);
-    font-size: 17px;
+    font-size: 15px;
     cursor: pointer;
     font-family: 'Red Hat Display', sans-serif;
     margin-bottom: 30px;
